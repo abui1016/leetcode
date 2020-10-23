@@ -22,3 +22,6 @@ var maxProfit = function(prices) {
 }
 
 console.log(maxProfit([7, 6, 4, 3, 1])); // 0
+
+// Time Complexity:  O(n)
+// Space Complexity: O(1)
